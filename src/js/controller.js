@@ -165,6 +165,8 @@ async function controlAddRecipe(data) {
     console.error(error);
     addRecipeView.renderErrorMessage(error.message);
   }
+
+  console.log("ehhehehehehehehehhehe");
 }
 
 // init
