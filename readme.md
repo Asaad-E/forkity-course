@@ -1,5 +1,9 @@
 # Forkify Project
 
+<!-- add the img in screenshoots folder -->
+
+![Forkify Screenshot](screenshots/img.png)
+
 Forkify is a JavaScript-based web application for searching, viewing, and managing recipes. This project is part of the JavaScript Udemy course and focuses on modern JavaScript features, asynchronous programming, and working with APIs.
 
 ## Features
